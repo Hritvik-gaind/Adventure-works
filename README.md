@@ -53,9 +53,4 @@ The dashboard provides a high-level strategic overview of Works’ business perf
 - Monitor trends and current performance
 - Identify underperforming areas
 - Make informed strategic decisions aligned with business objectives
----
-
-## 📞 Contact
-
-For questions or collaboration, feel free to reach out to **Hritvik Gaind** at [hritvikgaind2000@gmail.com](mailto:hritvikgaind2000@gmail.com).
 
